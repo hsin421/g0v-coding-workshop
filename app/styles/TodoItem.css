@@ -1,0 +1,8 @@
+
+.myColor {
+	color: purple;
+}
+
+.todoItem {
+	composes: myColor;
+}
